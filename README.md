@@ -1,2 +1,2 @@
 # Smart-office-backend
-Backend repository for smart office.
+Back end team Smart office repository.
